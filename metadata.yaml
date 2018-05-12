@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34689
     wikipedia: http://en.wikipedia.org/wiki/A._A._Luce
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30219#Monophysitism-Past-and-PresentA-Study-in-Christology
 gutenberg_issued: '2009-12-01'
 gutenberg_type: Text
 identifiers:
